@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+header {
+  background-color: #ffe0b2;
+  padding: 10px;
+  text-align: center;
+}
+
+form {
+  max-width: 300px;
+  margin: auto;
+}
